@@ -2,7 +2,7 @@
 
 App helps to find the trail in a city. Users can search for trails and can also filter the results based on search radius, minimum trail length.
 
-Click ![here](https://supu4aqua.github.io/APICapstone/) to view the app.
+Click ![here](https://supu4aqua.github.io/TrailFinder/) to view the app.
 
 
 ## Screenshots
